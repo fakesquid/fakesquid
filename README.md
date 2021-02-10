@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Jack 👋
 
 - 🔭 Currently looking for a full-time role in Frontend Development and Product Design
 - 💬 Ask me about ...
