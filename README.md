@@ -1,2 +1,2 @@
 ### UX Engineer by day 🌞
-### Building Defi and designing for [social goods](https://uwblueprint.org/) by night 🌙
+### Building Defi and designing for [social good](https://uwblueprint.org/) by night 🌙
