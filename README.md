@@ -1,6 +1,2 @@
-### Hey there, I'm Jack 👋
-
-- 🔭 Incoming UXE
-- 💬 Ask me about the coolest **Boba shops** in Toronto
-- 📫 Reach me at **zj9zhang**[at]**uwaterloo**[dot]**ca**
-- 😄 Pronouns: He/Him
+### UX Engineer by day 🌞
+### Building Defi and designing for social goods by night 🌙
